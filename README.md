@@ -32,3 +32,6 @@
 - 其实7bit就可以保存128个字符 但是最后还是用8比特 因为当时用第八位来作为奇偶校验位（奇偶校验位现在没用）
 - byte的概念最早是用来表示一个"字" 也就是char 最后通俗约定 8bit表示1byte
 - 例外：GSM默认采用7bit编码
+
+![image](https://user-images.githubusercontent.com/26539681/143977721-3dbc7d50-fac8-4a83-b2ec-6ba42fd0d906.png)
+
