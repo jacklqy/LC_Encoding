@@ -14,6 +14,7 @@
 - 1byte==8bit 表示8个比特(为什么不是2个或者4个 后面解答)
 - 插一句 比特币 字节跳动 名字取的真好
 - byte 表示存储下表所示值的整型类型。
+
 ![image](https://user-images.githubusercontent.com/26539681/143976362-4be59edd-0916-46b2-a08a-e5cabed21341.png)
 
 ## ASCII码
