@@ -1,5 +1,5 @@
 # LC_Encoding
-比特bit、字节byte-》Ascii、Default、Unicode、BigEndianUnicode、UTF7、UTF8、UTF32编码关系讲解
+- 比特bit、字节byte-》Ascii、Default、Unicode、BigEndianUnicode、UTF7、UTF8、UTF32编码关系讲解
 
 ## "1个字节是8个比特，1个字母是1个字节，1个汉字是2个字节"
 - 上面这句话很多人都看过听过，但大部分人都不知道为什么 (例如前两天的我)，这句话在某些规定下其实是不正确的
