@@ -1,3 +1,7 @@
+# 字符集和字符编码：https://www.cnblogs.com/skynet/archive/2011/05/03/2035105.html
+![image](https://user-images.githubusercontent.com/26539681/147740277-d52502d1-c636-4ceb-854b-457f1726514b.png)
+
+
 # LC_Encoding
 比特bit、字节byte-》Ascii、Default、Unicode、BigEndianUnicode、UTF7、UTF8、UTF32编码关系和转换讲解
 
